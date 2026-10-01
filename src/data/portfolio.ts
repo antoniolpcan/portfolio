@@ -11,6 +11,7 @@ import {
 } from "react-icons/si"
 
 import peelImage from "../assets/images/peel.png"
+import boraRacharImage from "../assets/images/bora-rachar-logo.png"
 
 export const NAV_ITEMS = [
   { label: "início", href: "#home" },
@@ -34,6 +35,20 @@ export const projects = [
     github: "https://github.com/antoniolpcan/peel-app",
     image: peelImage,
     link: "https://peel-app-ten.vercel.app/auth"
+  },
+  {
+    title: "BoraRachar",
+    description:
+      "Aplicação para dividir despesas entre amigos de forma simples e prática",
+    technologies: [
+      "C#",
+      ".Net",
+      "MongoDB",
+      "React",
+    ],
+    github: "https://github.com/antoniolpcan/bora-rachar-app",
+    image: boraRacharImage,
+    link: "https://yellow-mushroom-055a16b10.1.azurestaticapps.net/"
   },
 ]
 
@@ -84,6 +99,7 @@ export const TAGS = [
   "APIs",
   "Backend",
   "Python",
+  "C#",
   "React",
   "Angular",
   "RPAs",

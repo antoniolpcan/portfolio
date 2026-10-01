@@ -35,7 +35,7 @@ export default function Hero() {
             </h1>
 
             <p className="mt-8 text-lg leading-8 text-(--muted)">
-              Trabalho principalmente com React, TypeScript, Python e FastAPI,
+              Trabalho principalmente com React, TypeScript, Python e C#,
               criando aplicações web, APIs e automações com foco em código
               limpo e qualidade :)
             </p>
